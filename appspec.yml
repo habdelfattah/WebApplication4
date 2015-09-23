@@ -3,5 +3,5 @@ os: windows
 # Copy over all of the folders and files with whatever permissions they
 #  were originally assigned.
 files:
-  - source: /
-    destination: /
+  - source: \
+    destination: C:\inetpub\wwwroot	
