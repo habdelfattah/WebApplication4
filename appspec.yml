@@ -1,7 +1,6 @@
-﻿version: 0.0
+version: 0.0
 os: windows
-# Copy over all of the folders and files with whatever permissions they
-#  were originally assigned.
 files:
   - source: \
-    destination: C:\inetpub\wwwroot	
+    destination: C:\inetpub\wwwroot
+
